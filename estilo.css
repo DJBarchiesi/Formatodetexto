@@ -1,0 +1,28 @@
+.imperio{
+    background-color: red;
+}
+
+.rebeldes{
+    background-color: blue;
+}
+
+#DarthVader{
+    font-size: 25px;
+}
+
+#Luke{
+    font-style: italic;
+}
+
+.soldados{
+    border-style: solid;
+    letter-spacing: 3px;  
+}
+
+.unidadapoyo{
+    text-align: center; 
+}
+
+.naves{
+    text-transform: uppercase;
+}
